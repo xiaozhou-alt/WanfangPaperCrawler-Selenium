@@ -18,9 +18,11 @@ ps：原本我使用的翻页方式是直接修改网页的页码，如从第二
 
 运行结果展示：
 
-![image-20250403122917682](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250403122917682.png)
+![Snipaste_2025-04-03_12-28-07](https://github.com/user-attachments/assets/c2af2c47-1c44-4ead-b8de-82067ab5cb95)
+
 
 数据保存展示：
 
-![image-20250402231217262](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250402231217262.png)
+![image](https://github.com/user-attachments/assets/c7a5bb12-c109-40e4-b2ac-e7048417913e)
+
 
