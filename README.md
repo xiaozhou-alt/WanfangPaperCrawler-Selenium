@@ -25,4 +25,7 @@ ps：原本我使用的翻页方式是直接修改网页的页码，如从第二
 
 ![image](https://github.com/user-attachments/assets/c7a5bb12-c109-40e4-b2ac-e7048417913e)
 
+更多信息可关注我的CSDN：[使用Selenium爬取万方论文数据并进行数据清洗](https://blog.csdn.net/soejjdiwjssundo/article/details/146967112)
+
+
 
